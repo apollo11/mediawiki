@@ -128,3 +128,6 @@ wfLoadSkin( 'Vector' );
 # End of automatically generated settings.
 # Add more configuration options below.
 
+#Add Math extension
+require_once("$IP/extensions/Math/Math.php");
+
